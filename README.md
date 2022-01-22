@@ -28,6 +28,11 @@ $ sudo dkms remove 8812au/5.6.4.2_35491.20191025 --all'''
 ## 7. Check the wireless interfaces:
 $ iwconfig
 
+
+## Alternative approach is to use the install.sh script with root priveleges:
+$ chmod +x install.sh
+$ sudo ./install.sh
+
 ** Note: This driver is by aircrack-ng and its supports monitor mode.
 
 ## For more detailed and guide visit :

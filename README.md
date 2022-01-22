@@ -29,3 +29,6 @@ $ sudo dkms remove 8812au/5.6.4.2_35491.20191025 --all'''
 $ iwconfig
 
 ** Note: This driver is by aircrack-ng and its supports monitor mode.
+
+## For more detailed and guide visit :
+https://github.com/aircrack-ng/rtl8812au

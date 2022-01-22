@@ -27,3 +27,5 @@ $ sudo dkms remove 8812au/5.6.4.2_35491.20191025 --all'''
 
 ## 7. Check the wireless interfaces:
 $ iwconfig
+
+** Note: This driver is by aircrackng and its supports monitor mode.
